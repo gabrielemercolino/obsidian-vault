@@ -1,1 +1,0 @@
-Lancio il dado $2$ volte. Allora     
