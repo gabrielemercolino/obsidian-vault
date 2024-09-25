@@ -3,4 +3,11 @@ Le mie note dell'università
 ## Primo anno
 - [[Calcolo differenziale]]
 - [[Metodi matematici per l'informatica]]
-- [[Fondamen]]
+- [[Fondamenti di programmazione]]
+- [[Progettazione di sistemi digitali]]
+
+## Secondo anno
+- [[Calcolo delle probabilità]]
+- [[Algebra]]
+- [[Sistemi operativi]]
+- [[Basi di dati]]

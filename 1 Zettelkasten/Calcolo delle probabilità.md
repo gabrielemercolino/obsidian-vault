@@ -1,7 +1,7 @@
 # Professoressa
 [Alessandra Faggionato](https://www1.mat.uniroma1.it/people/faggionato)
 
-# Programma
+# Argomenti
 - [[Combinatoria]]
 - [[Spazio di probabilità]]
 - [[Probabilità condizionata]]
