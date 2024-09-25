@@ -20,4 +20,9 @@ Supponiamo di avere questi dati:
 - $120$ ragazzi
 - $20$ ragazze
 Ora si vuole trovare il modo in cui poter **scegliere 2 persone** di **sesso diverso**.
-La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo non c'è, tuttavia per la seconda scelta bisogna sapere il risultato della prima. Questo **sembrerebbe non rispettare** il [[Esempi principio fondamentale della combinatoria - esteso|principio]], tuttavia possiamo tranquillamente dire che 
+La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo non c'è, tuttavia per la seconda scelta bisogna sapere il risultato della prima. Questo **sembrerebbe non rispettare** il [[#**Principio fondamentale della combinatoria - esteso**|principio]], tuttavia possiamo tranquillamente dire che il numero delle combinazioni possibili è dato dalla somma delle due casistiche di scelta del genere, ovvero considerando il caso in cui venga scelto prima maschio-femmina e poi femmina-maschio e infine sommare. Questo significherebbe calcolare $120*20 + 20*120 = 2400 * 2 = 4800$
+
+---
+
+## **Permutazioni**
+Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$
