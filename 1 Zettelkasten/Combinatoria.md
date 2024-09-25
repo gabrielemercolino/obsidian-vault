@@ -35,3 +35,11 @@ Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamen
 Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
 
 ---
+## **Permutazioni senza ripetizioni**
+Fin'ora sono sempre stati assunti elementi sempre diversi, infatti fin'ora se appaiono ripetizioni tutto il castello crolla perchè contiamo delle ripetizioni. Tuttavia per risolvere il problema è di fatto sufficiente applicare le cose precedentemente utilizzate e poi rimuovere le ripetizioni. 
+
+In generale, per stringhe di lunghezza $n$ con $r$ lettere distinte con $r \leq n$:
+- la prima lettera appare $n_1$ volte
+- la seconda appare $n_3$ volte
+- la $r^a$ appare $n_r$ volte
+Allora $\#anagrammi=\frac{n!}{}$
