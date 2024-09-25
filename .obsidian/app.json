@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "showInlineTitle": true,
   "showRibbon": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }

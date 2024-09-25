@@ -26,3 +26,12 @@ La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo n
 
 ## **Permutazioni**
 Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$
+
+#### **Dimostrazione**: 
+- scelgo il primo: $n$ modi possibili
+- scelgo il secondo: $n-1$ modi possibili
+- ...
+- scelgo l'ultimo: $n-n+1 = 1$ modo possibile
+Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
+
+---
