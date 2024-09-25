@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "showInlineTitle": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "promptDelete": false
 }
