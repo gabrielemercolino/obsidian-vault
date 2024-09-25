@@ -1,0 +1,2 @@
+Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
+Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$ dove $a_i
