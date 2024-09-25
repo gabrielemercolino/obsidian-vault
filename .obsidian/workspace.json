@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e596080ffb4bd5a8",
+        "id": "ddea556bec81d4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "54573df0d6920432",
+            "id": "82a0c55aa394ca70",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Sapienza/.obsidian/workspace.json",
-                "staged": false
+                "file": "Sapienza.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sapienza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sapienza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sapienza.md"
+              }
             }
           },
           {
@@ -150,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54573df0d6920432",
+  "active": "cf52d6c76ce5fea4",
   "lastOpenFiles": [
+    "Sapienza.md",
     "Benvenuto.md"
   ]
 }
