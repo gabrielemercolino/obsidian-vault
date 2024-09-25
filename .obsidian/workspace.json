@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddea556bec81d4fd",
+        "id": "213f2aaf42b372b0",
         "type": "tabs",
         "children": [
           {
-            "id": "82a0c55aa394ca70",
+            "id": "353a665b3e5a2f40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,9 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf52d6c76ce5fea4",
+  "active": "353a665b3e5a2f40",
   "lastOpenFiles": [
+    "Nuovo Documento di testo.txt",
     "Sapienza.md",
+    "README.md",
     "Benvenuto.md"
   ]
 }
