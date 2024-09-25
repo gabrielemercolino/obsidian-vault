@@ -19,4 +19,5 @@ A seconda del caso, può non essere possibile a prima vista applicabile il princ
 Supponiamo di avere questi dati:
 - $120$ ragazzi
 - $20$ ragazze
-Ora si vuole trovare il modo in cui po
+Ora si vuole trovare il modo in cui poter **scegliere 2 persone** di **sesso diverso**.
+La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo non c'è, tuttavia per la seconda scelta bisogna sapere il risultato della prima. Questo **sembrerebbe non rispettare** il [[Esempi principio fondamentale della combinatoria - esteso|principio]], tuttavia possiamo tranquillamente dire che 
