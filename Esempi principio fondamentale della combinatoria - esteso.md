@@ -9,4 +9,4 @@ $\{(a, b)\} = \{(a, b) a_{maschio}, b_{femmina}\} \cup \{(a,b) a_{femmina}, b_{m
 ---
 Ho un insieme di $n$ oggetti distinti $A$. Quanti sono i sottoinsiemi di $A$?
 Intanto significa sostanzialmente qual è la cardinalità dell'insieme delle parti di $A$, ovvero $\wp(A)$.
-Siccome ogni $\wp(A)$
+Siccome ogni elemento di $\wp(A)$ può essere rappresentato da una stringa binaria che indica la presenza o meno dell'elemento, il problema si riduce al precedente, quindi la risposta è $2^n$
