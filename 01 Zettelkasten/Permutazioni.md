@@ -10,5 +10,5 @@ tags: [[Combinatoria]]
  > - ...
  > - scelgo l'ultimo nodo in $n-n+1=1$ modi possibili
  > 
- > Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
+ > Allora, per il [[Principio fondamentale della combinatoria|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
  

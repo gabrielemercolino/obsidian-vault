@@ -3,14 +3,6 @@ La combinatoria è una branca della matematica che si occupa di studiare gli esi
 Ad esempio supponiamo di voler calcolare quante possibilità uniche possono capitare lanciando un dado. Siccome ha 6 facce, ad ogni lancio può capitare con la stessa probabilità una di queste 6 facce. Siccome ci sono 2 lanci il numero delle combinazioni è $6*6=36$
 
 ---
-#### **Dimostrazione**: 
-- scelgo il primo: $n$ modi possibili
-- scelgo il secondo: $n-1$ modi possibili
-- ...
-- scelgo l'ultimo: $n-n+1 = 1$ modo possibile
-Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
-
----
 ## **Scelta senza ripetizioni**
 ```ad-danger
 title:
