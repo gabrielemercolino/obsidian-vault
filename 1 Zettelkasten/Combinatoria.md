@@ -41,6 +41,18 @@ Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamen
 Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|principio]], $\#permutazioni=n*(n-1)*(n-2)*$ ... $*1 = n!$
 
 ---
+## **Scelta senza ripetizioni**
+```ad-danger
+title:
+In un insieme di $n$ elementi distinti posso scegliere $k$ oggetti distinti dove non conta l'ordine con questi passi:
+1) conto come se l'ordine ci fosse (distinguo le ripetizioni)
+2) elimino le ripetizioni
+
+$$$$
+```
+
+
+---
 ## **Permutazioni senza ripetizioni**
 Fin'ora sono sempre stati assunti elementi sempre diversi, infatti fin'ora se appaiono ripetizioni tutto il castello crolla perchè contiamo delle ripetizioni. Tuttavia per risolvere il problema è di fatto sufficiente applicare le cose precedentemente utilizzate e poi rimuovere le ripetizioni. 
 ```ad-danger
@@ -48,4 +60,4 @@ title:
 In generale, per $n$ oggetti da ripartire in $r$ modi distinti in modo tale che, con $\forall i , 1 \leq i \leq r$,  per ogni partizione ci siano $n_i$ oggettin tale che $n_1+n_2+...+n_r=n$:
 $$\#partizioni=\frac{n!}{n_1!*n_2!*...*n_r!}=:\left( \begin{array}{c} n \\ n_1 n_2...n_r\end{array} \right)$$
 ```
-Questo di chiama [[coefficiente multinomiale]]
+Questo è il [[coefficiente multinomiale]]
