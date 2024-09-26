@@ -1,5 +1,8 @@
+2024-09-26 22:42
 status: #done
 tags: [[Calcolo delle probabilità]] [[Combinatoria]]
+
+## Principio fondamentale della combinatoria
 
 > [!error] Def
 > Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.

@@ -4,7 +4,7 @@
   "showRibbon": true,
   "promptDelete": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99 Files",
   "propertiesInDocument": "visible"
 }

@@ -1,9 +1,13 @@
-```ad-danger
-title: Definizione
-Dati $k, n \in N$ con $0 \leq k \leq n$
-$$\left( \begin{array}{c} n \\ k\end{array} \right) = \frac{n!}{k!*(n-k)!}$$
-```
+2024-09-26 22:45
+status: #incomplete 
+links: [[Combinatoria]]
 
-## Proprietà
+## Coefficiente binomiale
+> [!danger] Def
+> Dati $k, n \in N$ con $0 \leq k \leq n$
+>$$\left( \begin{array}{c} n \\ k\end{array} \right) = \frac{n!}{k!*(n-k)!}$$
+
+> [!tip] Proprietà
+> 
 $$\left( \begin{array}{c} 0 \\ 0\end{array} \right) = 1$$
 $$\forall n \left( \begin{array}{c} n \\ 0\end{array} \right) = 1$$$$\left( \begin{array}{c} n \\ k\end{array} \right) = \left( \begin{array}{c} n \\ n-k\end{array} \right)$$$$\left( \begin{array}{c} n \\ n\end{array} \right) = \left( \begin{array}{c} n \\ 0\end{array} \right) = 1$$

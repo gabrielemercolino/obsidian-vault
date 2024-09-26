@@ -1,10 +1,8 @@
----
-
----
-
-status: #incomplete
+2024-09-26 22:42
+status: #done 
 tags: [[Calcolo delle probabilità]] [[Combinatoria]]
 
+## Permutazioni
 > [!danger] Def
 > Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$
 

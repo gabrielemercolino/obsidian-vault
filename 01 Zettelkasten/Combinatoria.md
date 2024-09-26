@@ -9,7 +9,7 @@ In un insieme di $n$ elementi distinti posso scegliere $k$ oggetti distinti dove
 
 $$\frac{n*(n-1)*(n-2)*...*(n-k+1)}{k!}=\left( \begin{array}{c} n \\ k \end{array} \right)$$
 ```
-Questo è il [[coefficiente binomiale]]
+Questo è il [[Coefficiente binomiale]]
 
 ---
 ## **Partizioni**
