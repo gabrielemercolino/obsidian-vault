@@ -9,11 +9,10 @@ Allora il numero delle coppie $(a_1,a_2)$ possibili è $n_1*n_2$
 
 Tuttavia questo può essere ulteriormente generalizzato per più di soli due esperimenti, quindi
 ## **Principio fondamentale della combinatoria**
-```ad-danger
-title:
-Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
-Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$, dove $a_i$ è l'esito dell'$i$-esimo esperimento, è $n_1*n_2*...*n_r$ 
-```
+> [!tip] ### Principio
+> Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
+> Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$, dove $a_i$ è l'esito dell'$i$-esimo esperimento, è $n_1*n_2*...*n_r$ 
+
 
 ---
 A seconda del caso, può non essere possibile a prima vista applicabile il principio. Tuttavia si tratta di riuscire a dividere il problema correttamente per riuscire a risolverlo.
