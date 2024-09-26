@@ -6,5 +6,8 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99 Files",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "05 Templates/"
+  ]
 }
