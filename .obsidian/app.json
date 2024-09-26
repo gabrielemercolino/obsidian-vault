@@ -3,5 +3,8 @@
   "showInlineTitle": false,
   "showRibbon": true,
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": false,
+  "attachmentFolderPath": "99 Files",
+  "propertiesInDocument": "source"
 }
