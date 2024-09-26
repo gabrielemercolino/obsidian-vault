@@ -1,8 +1,5 @@
 La combinatoria è una branca della matematica che si occupa di studiare gli esiti degli eventi. 
 
-Ad esempio supponiamo di voler calcolare quante possibilità uniche possono capitare lanciando un dado. Siccome ha 6 facce, ad ogni lancio può capitare con la stessa probabilità una di queste 6 facce. Siccome ci sono 2 lanci il numero delle combinazioni è $6*6=36$
-
----
 ## **Scelta senza ripetizioni**
 ```ad-danger
 title:
