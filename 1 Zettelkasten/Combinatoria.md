@@ -9,8 +9,11 @@ Allora il numero delle coppie $(a_1,a_2)$ possibili è $n_1*n_2$
 
 Tuttavia questo può essere ulteriormente generalizzato per più di soli due esperimenti, quindi
 ## **Principio fondamentale della combinatoria**
+```ad-danger
+title:
 Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
 Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$, dove $a_i$ è l'esito dell'$i$-esimo esperimento, è $n_1*n_2*...*n_r$ 
+```
 
 ---
 A seconda del caso, può non essere possibile a prima vista applicabile il principio. Tuttavia si tratta di riuscire a dividere il problema correttamente per riuscire a risolverlo.
@@ -26,8 +29,10 @@ La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo n
 
 ---
 ## **Permutazioni**
+```ad-danger
+title:
 Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$
-
+```
 #### **Dimostrazione**: 
 - scelgo il primo: $n$ modi possibili
 - scelgo il secondo: $n-1$ modi possibili
@@ -38,7 +43,9 @@ Allora, per il [[#**Principio fondamentale della combinatoria - esteso**|princip
 ---
 ## **Permutazioni senza ripetizioni**
 Fin'ora sono sempre stati assunti elementi sempre diversi, infatti fin'ora se appaiono ripetizioni tutto il castello crolla perchè contiamo delle ripetizioni. Tuttavia per risolvere il problema è di fatto sufficiente applicare le cose precedentemente utilizzate e poi rimuovere le ripetizioni. 
-
-In generale, per $n$ oggetti da ripartire in $r$ modi distinti in modo tale che, con $\forall i , 1 \leq i \leq r$,  per ogni partizione ci siano $n_i$ oggettin tale che $n_1+n_2+...+n_r=n$: 
+```ad-danger
+title:
+In generale, per $n$ oggetti da ripartire in $r$ modi distinti in modo tale che, con $\forall i , 1 \leq i \leq r$,  per ogni partizione ci siano $n_i$ oggettin tale che $n_1+n_2+...+n_r=n$:
 $$\#partizioni=\frac{n!}{n_1!*n_2!*...*n_r!}=:\left( \begin{array}{c} n \\ n_1 n_2...n_r\end{array} \right)$$
+```
 Questo di chiama [[coefficiente multinomiale]]
