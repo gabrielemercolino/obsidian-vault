@@ -3,14 +3,17 @@ La combinatoria è una branca della matematica che si occupa di studiare gli esi
 Ad esempio supponiamo di voler calcolare quante possibilità uniche possono capitare lanciando un dado. Siccome ha 6 facce, ad ogni lancio può capitare con la stessa probabilità una di queste 6 facce. Siccome ci sono 2 lanci il numero delle combinazioni è $6*6=36$
 
 ---
-## **Principio fondamentale della combinatoria - base**
+**Principio fondamentale della combinatoria - base**
 Supponiamo di avere 2 esperimenti. Il primo ha $n_1$ esiti possibili e qualunque esso sia il secondo ha sempre $n_2$ esiti possibili.
 Allora il numero delle coppie $(a_1,a_2)$ possibili è $n_1*n_2$ 
 
 Tuttavia questo può essere ulteriormente generalizzato per più di soli due esperimenti, quindi
-## **Principio fondamentale della combinatoria - esteso**
+
+```ad-danger
+title: **Principio fondamentale della combinatoria**
 Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
 Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$, dove $a_i$ è l'esito dell'$i$-esimo esperimento, è $n_1*n_2*...*n_r$ 
+```
 
 ---
 
