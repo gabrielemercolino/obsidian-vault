@@ -8,25 +8,23 @@ Supponiamo di avere 2 esperimenti. Il primo ha $n_1$ esiti possibili e qualunque
 Allora il numero delle coppie $(a_1,a_2)$ possibili è $n_1*n_2$ 
 
 Tuttavia questo può essere ulteriormente generalizzato per più di soli due esperimenti, quindi
-
-```ad-danger
-title: **Principio fondamentale della combinatoria**
+## **Principio fondamentale della combinatoria**
 Supponiamo di avere $r$ esperimenti. Il primo ha $n_1$ esiti possibili. Qualunque esso sia il secondo ne ha $n_2$, il terzo $n_3$ ecc.
 Allora il numero delle possibili stringhe $(a_1, a_2, ... , a_r)$, dove $a_i$ è l'esito dell'$i$-esimo esperimento, è $n_1*n_2*...*n_r$ 
-```
 
 ---
-
 A seconda del caso, può non essere possibile a prima vista applicabile il principio. Tuttavia si tratta di riuscire a dividere il problema correttamente per riuscire a risolverlo.
-
+```ad-example
+title: esempio
 Supponiamo di avere questi dati:
 - $120$ ragazzi
 - $20$ ragazze
+
 Ora si vuole trovare il modo in cui poter **scegliere 2 persone** di **sesso diverso**.
 La prima persona può essere scelta su $120+20=140$ persone siccome il vincolo non c'è, tuttavia per la seconda scelta bisogna sapere il risultato della prima. Questo **sembrerebbe non rispettare** il [[#**Principio fondamentale della combinatoria - esteso**|principio]], tuttavia possiamo tranquillamente dire che il numero delle combinazioni possibili è dato dalla somma delle due casistiche di scelta del genere, ovvero considerando il caso in cui venga scelto prima maschio-femmina e poi femmina-maschio e infine sommare. Questo significherebbe calcolare $120*20 + 20*120 = 2400 * 2 = 4800$
+```
 
 ---
-
 ## **Permutazioni**
 Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$
 
