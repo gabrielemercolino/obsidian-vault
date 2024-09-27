@@ -1,5 +1,5 @@
 2024-09-26 22:45
-status: #incomplete 
+status: #done 
 links: [[Combinatoria]]
 
 ## Coefficiente binomiale
