@@ -1,3 +1,9 @@
+---
+tags:
+  - combinatoria
+---
+
+
 2024-09-26 22:50
 status: #incomplete 
 links: [[Calcolo delle probabilità]] [[Combinatoria]]
