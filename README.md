@@ -1,2 +1,7 @@
-Le mie note personali
-# Navigazione
+---
+tags:
+  - "#🟥"
+links:
+---
+## Navigazione
+- [[Università La Sapienza]]
