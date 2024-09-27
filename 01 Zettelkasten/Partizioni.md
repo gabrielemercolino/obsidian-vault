@@ -1,7 +1,3 @@
-2024-09-26 22:36
-status: #incomplete 
-links: [[Calcolo delle probabilità]] [[Combinatoria]]
-
 ## Partizioni
 
 > [!danger] Def

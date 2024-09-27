@@ -1,7 +1,3 @@
-2024-09-26 22:42
-status: #done
-tags: [[Calcolo delle probabilità]] [[Combinatoria]]
-
 ## Principio fondamentale della combinatoria
 
 > [!error] Def

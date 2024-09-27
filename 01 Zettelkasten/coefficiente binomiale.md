@@ -1,7 +1,3 @@
-2024-09-26 22:45
-status: #done 
-links: [[Combinatoria]]
-
 ## Coefficiente binomiale
 > [!danger] Def
 > Dati $k, n \in N$ con $0 \leq k \leq n$
