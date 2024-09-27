@@ -1,3 +1,6 @@
+---
+links: "[[Calcolo delle probabilità]]"
+---
 # Combinatoria
 
 La combinatoria è una branca della matematica che si occupa di studiare gli esiti degli eventi
@@ -8,7 +11,3 @@ In base al [[Principio fondamentale della combinatoria|principio]], si è in gra
 - [[Permutazioni]]
 - [[Scelta senza ripetizioni]]
 - [[Partizioni]]
-
-## Esempi
-
-> 
