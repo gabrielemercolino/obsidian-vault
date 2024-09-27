@@ -1,4 +1,4 @@
-# Professoressa
+# Prof
 [Alessandra Faggionato](https://www1.mat.uniroma1.it/people/faggionato)
 
 # Programma

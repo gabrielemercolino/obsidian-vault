@@ -11,3 +11,5 @@ links: [[Calcolo delle probabilità]] [[Combinatoria]]
 > 
 > Quindi:
 > $$\frac{n*(n-1)*(n-2)*...*(n-k+1)}{k!}=\left( \begin{array}{c} n \\ k \end{array} \right)$$
+
+Questo si chiama [[Coefficiente binomiale|coefficiente binomiale]]
