@@ -1,14 +1,11 @@
 ---
+date: 2024-09-26T22:50:00
 links:
   - "[[Combinatoria]]"
   - "[[Calcolo delle probabilità]]"
-status:
+tags:
+  - incomplete
 ---
-
-
-2024-09-26 22:50
-status: #incomplete 
-
 ## Scelta senza ripetizioni
 
 > [!danger] Def
