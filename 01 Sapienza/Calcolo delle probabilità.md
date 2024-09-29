@@ -1,6 +1,6 @@
 ---
 tags:
-  - calcolo-probabilità
+  - navigazione
 ---
 
 # Prof
