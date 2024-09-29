@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#🟥"
+  - unfinished
 links: "[[Calcolo delle probabilità]]"
-cssclasses: []
+cssclasses:
 ---
 ## Permutazioni
 > [!danger] Def
