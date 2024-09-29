@@ -23,3 +23,7 @@ La struttura dei dati dipende dal suo utilizzo e può essere modificata nel temp
 > - cognome
 > - data di nascita
 > - ...
+
+L'**obiettivo** è facilitare l'elaborazione dei dati sulla base delle *relazioni*
+Con i dati **strutturati** si può accedere ai singoli elementi tramite delle *interrogazioni*
+Le *relazioni* sono rappresentate nella *struttura dei record*
