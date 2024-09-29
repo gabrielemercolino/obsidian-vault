@@ -1,17 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#navigazione ",
+      "query": "file:README",
       "color": {
         "a": 1,
-        "rgb": 3129730
+        "rgb": 16449791
       }
     },
     {
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#basi-dati  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
