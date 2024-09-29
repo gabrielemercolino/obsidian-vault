@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:README",
+      "query": "tag:#navigazione ",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 3129730
       }
     },
     {

@@ -2,8 +2,7 @@
 tags:
   - unfinished
   - calcolo-probabilità
-links: 
-cssclasses:
+links:
 ---
 ## Funzione di probabilità
 > [!error] Def

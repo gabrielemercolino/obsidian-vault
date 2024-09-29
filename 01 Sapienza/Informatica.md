@@ -1,6 +1,7 @@
 ---
 tags:
-  - unfinished
+  - corso
+  - navigazione
 links:
 ---
 ## Informatica
