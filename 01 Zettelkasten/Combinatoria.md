@@ -1,5 +1,7 @@
 ---
-links: "[[Calcolo delle probabilità]]"
+links: 
+tags:
+  - calcolo-probabilità
 ---
 # Combinatoria
 

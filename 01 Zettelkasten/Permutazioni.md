@@ -1,7 +1,8 @@
 ---
 tags:
   - unfinished
-links: "[[Calcolo delle probabilità]]"
+  - calcolo-probabilità
+links: 
 cssclasses:
 ---
 ## Permutazioni
