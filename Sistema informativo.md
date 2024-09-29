@@ -11,5 +11,4 @@ cssclasses:
 
 Normalmente lavora a supporto di altri componenti della stessa organizzazione
 
-Questa nozione è 
-
+Questa nozione è indipendente dalla sua realizzazione, infatti un esempio può essere un archivio fisico
