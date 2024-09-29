@@ -1,3 +1,9 @@
+---
+tags:
+  - "#🟥"
+links: "[[Calcolo delle probabilità]]"
+cssclasses: []
+---
 ## Permutazioni
 > [!danger] Def
 > Dati $n$ oggetti **distinti**, le permutazioni sono tutti i possibili allineamenti, ovvero $n!$

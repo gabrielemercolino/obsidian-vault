@@ -1,6 +1,7 @@
 ---
 tags:
-  - "#🟥"
-links:
+  - unfinished
+links: 
+cssclasses:
 ---
 ## {{title}}

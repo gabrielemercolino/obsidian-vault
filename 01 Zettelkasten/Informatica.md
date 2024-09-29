@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#🟥"
+  - unfinished
 links:
 ---
 ## Informatica
