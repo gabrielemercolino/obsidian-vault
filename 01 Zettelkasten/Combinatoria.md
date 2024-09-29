@@ -1,7 +1,8 @@
 ---
-links: 
 tags:
   - calcolo-probabilità
+  - finished
+links:
 ---
 # Combinatoria
 
