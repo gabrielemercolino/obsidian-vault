@@ -5,7 +5,7 @@ tags:
 links: "[[DBMS]]"
 cssclasses: 
 aliases:
-  - Base-di-dati
+  - base di dati
 ---
 ## DB
 >[!error] Cos'è
