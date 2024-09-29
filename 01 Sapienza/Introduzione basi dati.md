@@ -18,4 +18,5 @@ Gli **svantaggi** però erano
 - *inconsistenza*: per la stessa *ridondanza* la duplicazione rendeva un problema tangibile la possibilità di avere dati diversi e quindi perdere l'informazione vera
 - *organizzazione dei dati*: ogni applicazione doveva riorganizzare i dati in base all'uso che voleva farne
 
+### Oggi
 Per risolvere questi problemi sono nati i [[DBMS]]
