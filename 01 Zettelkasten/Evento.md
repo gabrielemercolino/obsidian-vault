@@ -1,3 +1,10 @@
+---
+tags:
+  - unfinished
+  - calcolo-probabilità
+links: 
+cssclasses:
+---
 ## Evento
 
 > [!error] Def

@@ -1,3 +1,10 @@
+---
+tags:
+  - unfinished
+  - calcolo-probabilità
+links: 
+cssclasses:
+---
 ## Spazio campionario
 
 > [!error] Def
@@ -5,4 +12,4 @@
 
 > [!example] Esempio
 > $E=$"lancio del dado"
-> $S=\{(1, 2, 3, 4, 5, 6\}$
+> $S=\{1, 2, 3, 4, 5, 6\}$
