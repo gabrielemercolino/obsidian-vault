@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showInlineTitle": false,
   "showRibbon": true,
   "promptDelete": false,
@@ -9,5 +9,6 @@
   "propertiesInDocument": "visible",
   "userIgnoreFilters": [
     "05 Templates/"
-  ]
+  ],
+  "newFileFolderPath": "00 Temporanei"
 }
