@@ -42,3 +42,11 @@ Queste informazioni vengono mantenute nel **process control block** che è unico
 ---
 ## Traccia di un processo
 ![[Pasted image 20241001155146.png]]
+
+---
+## Esecuzione di un processo
+![[Pasted image 20241001155430.png]]
+![[Pasted image 20241001155522.png]]
+Dal punto di vista dei singoli processi non ci sono interruzioni di esecuzione
+![[Pasted image 20241001155651.png]]
+Ovviamente dal punto di vista del SO è più complesso. Tramite il **dispatcher** si passa tra un processo all'altro
