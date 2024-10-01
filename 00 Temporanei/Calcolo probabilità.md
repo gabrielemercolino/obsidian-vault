@@ -60,3 +60,9 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 > Conviene pensare che le palline siano distringuibili (per esempio numerandole)
 > $U=\{B_1,B_2,B_3,B_4,B_5,B_6,N_1,N_2,N_3,N_4,N_5\}$
 > Quindi ora ho 11 palline distinguibili
+> $S=\{A \subset U : |A|=3\}$
+> Un esempio di esito è $\{B_2,B_4,N_3\}$
+> $S$ ha esiti equiprobabili per simmetria
+> Quindi $P(E)=\frac{|E|}{|S|}$
+> Ora $|S|=\left( \begin{array}{c} 11 \\ 3\end{array}\right)$
+> Per il [[pri]]
