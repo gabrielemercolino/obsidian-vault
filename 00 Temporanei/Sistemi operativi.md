@@ -65,3 +65,7 @@ Tramite una (in realtà più generalmente) il **dispatcher** prende il processo 
 ---
 ## Modello dei processi a 5 stati
 ![[Pasted image 20241001160950.png]]
+Abbiamo quindi ora 2 code:
+![[Pasted image 20241001161601.png]]
+Ancora meglio, separando la causa del blocco:
+![[Pasted image 20241001161741.png]]
