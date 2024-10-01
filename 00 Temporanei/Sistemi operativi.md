@@ -74,3 +74,5 @@ Ancora meglio, separando la causa del blocco:
 ## Processi sospesi
 ![[Pasted image 20241001161829.png]]
 ![[Pasted image 20241001162049.png]]
+Un pò meglio:
+![[Pasted image 20241001162342.png]]
