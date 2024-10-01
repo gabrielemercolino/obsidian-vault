@@ -77,4 +77,10 @@ $(g \circ f)^{-1} = f^{-1}\circ g^{-1}$
 ![[Pasted image 20241001143919.png]]
 Si pone $x, x^i\in X, x \tilde x^i <-> f(x) = f(x^i)$ dove $\tilde$ è una relazione di equivalenza
 - **riflessiva**: $x \tilde x^i : f(x) = f(x^i)$
-- **simmetrica**: $x \tile x^i$
+- **simmetrica**: $x \tilde x^i <-> f(x) = f(x^i) <-> f(x^i)=f(x) <-> x^i=x$
+- **transitiva**: $x \tilde x^i, x^i\tilde x^{ii} <-> f(x) = f(x^i), f(x^i)=f(x^{ii}) -> f(x)=f(x^{ii}) <-> x \tilde x^{ii}$
+
+Consideriamo l'insieme quoziente $\frac{X}{\tilde}$
+![[Pasted image 20241001144613.png]]
+![[Pasted image 20241001144700.png]]
+![[Pasted image 20241001144735.png]]
