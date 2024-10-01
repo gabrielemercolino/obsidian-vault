@@ -50,3 +50,13 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 > [!danger] Proposizione
 > Se $|S|=n$ e gli esiti sono equipossibili, allora $\forall E$ eventi
 > $$P(E) = \frac{|E|}{|S|} = \frac{\text{esiti favorevoli a E}}{\text{esiti equipossibili}}$$
+
+> [!example] Esempio
+> Ho un'urna con 6 palline bianche e 5 nere
+> Estraggo 3 palline a caso (senza rimpiazzo)
+> Qual è la probabilità che tra le estratte 2 siano nere e una bianca?
+> 
+> Non conviene registrare solo il colore delle palline estratte siccome non c'è una simmetria
+> Conviene pensare che le palline siano distringuibili (per esempio numerandole)
+> $U=\{B_1,B_2,B_3,B_4,B_5,B_6,N_1,N_2,N_3,N_4,N_5\}$
+> Quindi ora ho 11 palline distinguibili
