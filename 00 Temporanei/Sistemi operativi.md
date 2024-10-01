@@ -76,3 +76,10 @@ Ancora meglio, separando la causa del blocco:
 ![[Pasted image 20241001162049.png]]
 Un pò meglio:
 ![[Pasted image 20241001162342.png]]
+### Motivi per sospendere
+![[Pasted image 20241001162904.png]]
+In generale è per **swapping**
+
+---
+## Gestione delle risorse
+![[Pasted image 20241001163224.png]]
