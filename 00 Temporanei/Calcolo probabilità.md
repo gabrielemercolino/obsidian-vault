@@ -51,3 +51,4 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 > Se $|S|=n$ e gli esiti sono equipossibili, allora $\forall E$ eventi
 > $$P(E) = \frac{|E|}{|S|} = \frac{\text{esiti favorevoli a E}}{\text{esiti equipossibili}}$$
 
+
