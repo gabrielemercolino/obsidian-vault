@@ -10,12 +10,12 @@ cssclasses:
 > Unfa funzione $f:X\longrightarrow Y$ è **biiettiva** se è allo stesso tempo [[suriettiva]] e  [[iniettiva]]
 
 > [!example] Dimostrazione
-> $f$ iniettiva <-> $\forall y \in Y, f^{-1}(\{y\}) = \empty$ oppure è un [[singleton]]
-> $f$ [[suriettiva]] <-> $\forall y \in Y, f^{-1}(\{y\}) \neq \empty$
+> $f$ iniettiva <-> $\forall y \in Y, f^{-1}(\{y\}) = \emptyset$ oppure è un [[singleton]]
+> $f$ [[suriettiva]] <-> $\forall y \in Y, f^{-1}(\{y\}) \neq \emptyset$
 > *Quindi* $f$ biiettiva <-> $\forall y \in Y, f^{-1}({y})$ è un [[singleton]]
 
 > [!example] Esempio
-> $X$ insieme $\neq \empty$, $Id:=(X,X,\delta_{x})$ 
+> $X$ insieme $\neq \emptyset$, $Id:=(X,X,\delta_{x})$ 
 > $\delta_{x}=\{(x,x):x\in X\} \forall x Id_x(x)=x$
 > Questo si chiama **sottoinsieme diagonale**  
 
@@ -42,3 +42,11 @@ cssclasses:
 Si definisce **funzione composta** come la 
 ![[Pasted image 20241001140943.png]]
 funzione definita da $(g \circ f)(x)=g(f(x))$
+
+> [!info] Proprietà
+> **associatività**: $(h \circ g) \circ f = h \circ (g \circ f)$
+
+> [!warn] Proposizione
+> $f$ biiettiva <-> $\exists g:Y \longrightarrow X: f \circ g = id_Y, g \circ f = id_X$
+> g è chiamata **funzione inversa**
+> 
