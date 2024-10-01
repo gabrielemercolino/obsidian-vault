@@ -47,8 +47,6 @@ Siccome gli esiti sono equipossibili, richiediamo che $P(\{S_1\})=P(\{S_2\})=...
 D'altro canto ho che $1=P(S)$ e $S=\{S_1,S_2,...,S_n\}$ e gli eventi sono *a 2 a 2 incompatibili* allora $\sum_{i=1}^{n}{P(\{S_i\})}=n*z$
 Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n$
 
-> [!note] Proposizione
+> [!danger] Proposizione
 > Se $|S|=n$ e gli esiti sono equipossibili, allora $\forall E$ eventi
 > $$P(E) = \frac{|E|}{|S|} = \frac{\text{esiti favorevoli a E}}{\text{esiti equipossibili}}$$
-
-
