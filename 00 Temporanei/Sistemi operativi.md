@@ -69,3 +69,8 @@ Abbiamo quindi ora 2 code:
 ![[Pasted image 20241001161601.png]]
 Ancora meglio, separando la causa del blocco:
 ![[Pasted image 20241001161741.png]]
+
+---
+## Processi sospesi
+![[Pasted image 20241001161829.png]]
+![[Pasted image 20241001162049.png]]
