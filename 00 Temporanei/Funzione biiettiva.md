@@ -84,3 +84,7 @@ Consideriamo l'insieme quoziente $\frac{X}{\tilde}$
 ![[Pasted image 20241001144613.png]]
 ![[Pasted image 20241001144700.png]]
 ![[Pasted image 20241001144735.png]]
+![[Pasted image 20241001145352.png]]
+>[!error] Def
+>L'applicazione $\phi$ è ben definita *(l'immagine di una classe dipende dalla scelta di un rappresentante)* è biiettiva e permette di calcolare $f$ fattorizzandola con il diagramma seguente 
+>
