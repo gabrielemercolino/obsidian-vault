@@ -65,4 +65,9 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 > $S$ ha esiti equiprobabili per simmetria
 > Quindi $P(E)=\frac{|E|}{|S|}$
 > Ora $|S|=\left( \begin{array}{c} 11 \\ 3\end{array}\right)$
-> Per il [[pri]]
+> Per il [[Principio fondamentale della combinatoria|PFdC]] $$|E|=\text{modi pallina bianca} * \text{modi scegliere 2 palline nere no ordine} = 6 * \left( \begin{array}{c} 5 \\ 2\end{array}\right)$$
+> Quindi $$\frac{|E|}{|S|}=\frac{6 * \left( \begin{array}{c} 5 \\ 2\end{array}\right)}{\left( \begin{array}{c} 11 \\ 3\end{array}\right)}$$
+
+
+
+
