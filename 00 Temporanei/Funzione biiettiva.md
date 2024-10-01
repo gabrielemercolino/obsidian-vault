@@ -2,6 +2,7 @@
 tags:
   - unfinished
   - algebra
+  - temporaneo
 links: 
 cssclasses:
 ---
@@ -55,3 +56,6 @@ funzione definita da $(g \circ f)(x)=g(f(x))$
 > [!info] Dimostrazione
 > ![[Pasted image 20241001141839.png]]
 
+Supponiamo adesso che sia dato il diagramma ![[Pasted image 20241001142358.png]]
+con $f\circ g = id_Y$ e $g \circ f = id_X$
+Mostriamo che $g$ è **suriettiva**. Sia $x \in X$ e poniamo $y = f(x)$. Allora $g(y)=g(f(x))=(g\circ f)(x) = x$ per via della seconda $\longrightarrow g^{-1}(x)\neq$ 
