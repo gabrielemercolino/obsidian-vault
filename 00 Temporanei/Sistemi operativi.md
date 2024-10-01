@@ -35,3 +35,4 @@ Il compito fondamentale del sistema è la gestione dei processi
 ![[Pasted image 20241001153705.png]]
 Quando un utente richiede l'esecuzione di un processo può crearsi più di un processo a seconda dell'applicazione
 ![[Pasted image 20241001153944.png]]
+![[Pasted image 20241001154425.png]]
