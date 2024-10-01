@@ -27,9 +27,18 @@ cssclasses:
 >[!error] Def
 >Un diagramma è una collezione di insiemi *non vuoti* collegati da [[funzioni|applicazioni]]
 
-> [!example] Esempio
+> [!example] Esempi
 > ![[Pasted image 20241001140738.png]]
 > ![[Pasted image 20241001140752.png]]
+> ![[Pasted image 20241001140801.png]]
+> ![[Pasted image 20241001140811.png]]
+> ![[Pasted image 20241001140846.png]]
+
 ---
 ### Operazioni sulle funzioni
 #### Composizione
+>[!error] Def
+![[Pasted image 20241001140846.png]]
+Si definisce **funzione composta** come la 
+![[Pasted image 20241001140943.png]]
+funzione definita da $(g \circ f)(x)=g(f(x))$
