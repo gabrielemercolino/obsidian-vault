@@ -33,4 +33,5 @@ Il compito fondamentale del sistema è la gestione dei processi
 #### Cos'è un processo
 ![[Pasted image 20241001153324.png]]
 ![[Pasted image 20241001153705.png]]
-Un processo in esecuzione e l'esecuzione stessa
+Quando un utente richiede l'esecuzione di un processo può crearsi più di un processo a seconda dell'applicazione
+![[Pasted image 20241001153944.png]]
