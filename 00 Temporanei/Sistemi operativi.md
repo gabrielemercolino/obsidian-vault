@@ -50,3 +50,7 @@ Queste informazioni vengono mantenute nel **process control block** che è unico
 Dal punto di vista dei singoli processi non ci sono interruzioni di esecuzione
 ![[Pasted image 20241001155651.png]]
 Ovviamente dal punto di vista del SO è più complesso. Tramite il **dispatcher** si passa tra un processo all'altro
+
+---
+## Stati di un processo
+![[Pasted image 20241001160214.png]]
