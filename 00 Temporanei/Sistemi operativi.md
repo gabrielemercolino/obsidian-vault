@@ -54,3 +54,8 @@ Ovviamente dal punto di vista del SO è più complesso. Tramite il **dispatcher*
 ---
 ## Stati di un processo
 ![[Pasted image 20241001160214.png]]
+![[Pasted image 20241001160356.png]]
+Tramite una (in realtà più generalmente) il **dispatcher** prende il processo da eseguire
+
+### Creazione
+![[Pasted image 20241001160602.png]]
