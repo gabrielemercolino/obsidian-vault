@@ -5,7 +5,7 @@ tags:
 links: 
 cssclasses:
 ---
-## Sistemi operativi
+# Sistemi operativi
 ![[Pasted image 20241001151703.png]]
 **service call** (*system call*) è in realtà esso stesso un interrupt
 
@@ -24,7 +24,7 @@ Una vista del kernel UNIX:
 
 ---
 
-### Processi
+## Processi
 Il compito fondamentale del sistema è la gestione dei processi
 - permettere l'esecuzione alternata
 - assegnare le risorse ai processi e proteggere dagli altri processi
@@ -36,3 +36,9 @@ Il compito fondamentale del sistema è la gestione dei processi
 Quando un utente richiede l'esecuzione di un processo può crearsi più di un processo a seconda dell'applicazione
 ![[Pasted image 20241001153944.png]]
 ![[Pasted image 20241001154425.png]]
+Queste informazioni vengono mantenute nel **process control block** che è unico per processo
+![[Pasted image 20241001154954.png]]
+
+---
+## Traccia di un processo
+![[Pasted image 20241001155146.png]]
