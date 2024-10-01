@@ -64,4 +64,10 @@ Mostriamo che $g$ è **suriettiva**. Sia $x \in X$ e poniamo $y = f(x)$. Allora 
 Mostriamo che $g$ è **iniettiva**. Siano $y, y^i \in Y$ tali che $g(y)=g(y^i)=x$. Allora applicando $f$ a tutti ottengo $f(g(y))=f(g(y^i))=f(x) \longrightarrow y=(f\circ g)(y)=(f\circ g)(y^i)$  
 
 ---
-Se $f:X\righta$
+Se $f:X\rightarrow Y$ è biiettiva si denota la sua **inversa** con $f^{-1}:Y\rightarrow X$
+Notare che $f^{-1}$ è ugualmente *biettiva*
+
+---
+Se $f$ e $g$ sono biiettive
+![[Pasted image 20241001143537.png]]
+$(g \circ f)^{-1} = f^{-1}\circ g^{-1}$
