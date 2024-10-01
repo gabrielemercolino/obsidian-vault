@@ -57,5 +57,11 @@ funzione definita da $(g \circ f)(x)=g(f(x))$
 > ![[Pasted image 20241001141839.png]]
 
 Supponiamo adesso che sia dato il diagramma ![[Pasted image 20241001142358.png]]
-con $f\circ g = id_Y$ e $g \circ f = id_X$
-Mostriamo che $g$ è **suriettiva**. Sia $x \in X$ e poniamo $y = f(x)$. Allora $g(y)=g(f(x))=(g\circ f)(x) = x$ per via della seconda $\longrightarrow g^{-1}(x)\neq$ 
+con 
+1) $f\circ g = id_Y$ 
+2) $g \circ f = id_X$
+Mostriamo che $g$ è **suriettiva**. Sia $x \in X$ e poniamo $y = f(x)$. Allora $g(y)=g(f(x))=(g\circ f)(x) = x$ per via di **2** $\longrightarrow g^{-1}(x)\neq \emptyset$ 
+Mostriamo che $g$ è **iniettiva**. Siano $y, y^i \in Y$ tali che $g(y)=g(y^i)=x$. Allora applicando $f$ a tutti ottengo $f(g(y))=f(g(y^i))=f(x) \longrightarrow y=(f\circ g)(y)=(f\circ g)(y^i)$  
+
+---
+Se $f:X\righta$
