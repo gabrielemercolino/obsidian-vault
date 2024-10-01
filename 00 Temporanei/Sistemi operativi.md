@@ -20,3 +20,11 @@ Per UNIX (in realtà un pò per tutti):
 Una vista del kernel UNIX:
 ![[Pasted image 20241001152526.png]]
 ![[Pasted image 20241001152709.png]]
+![[Pasted image 20241001152826.png]]
+
+---
+
+### Processi
+Il compito fondamentale del sistema è la gestione dei processi
+- permettere l'esecuzione alternata
+- asse
