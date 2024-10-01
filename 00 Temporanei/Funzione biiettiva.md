@@ -71,3 +71,10 @@ Notare che $f^{-1}$ è ugualmente *biettiva*
 Se $f$ e $g$ sono biiettive
 ![[Pasted image 20241001143537.png]]
 $(g \circ f)^{-1} = f^{-1}\circ g^{-1}$
+
+---
+### Teorema di strutture per le applicazioni
+![[Pasted image 20241001143919.png]]
+Si pone $x, x^i\in X, x \tilde x^i <-> f(x) = f(x^i)$ dove $\tilde$ è una relazione di equivalenza
+- **riflessiva**: $x \tilde x^i : f(x) = f(x^i)$
+- **simmetrica**: $x \tile x^i$
