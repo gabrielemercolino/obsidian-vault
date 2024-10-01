@@ -85,3 +85,4 @@ In generale è per **swapping**
 ![[Pasted image 20241001163224.png]]
 
 ![[Pasted image 20241001163732.png]]
+![[Pasted image 20241001163810.png]]
