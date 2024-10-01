@@ -83,3 +83,5 @@ In generale è per **swapping**
 ---
 ## Gestione delle risorse
 ![[Pasted image 20241001163224.png]]
+
+![[Pasted image 20241001163732.png]]
