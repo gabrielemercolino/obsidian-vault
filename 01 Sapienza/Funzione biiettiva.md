@@ -46,7 +46,12 @@ funzione definita da $(g \circ f)(x)=g(f(x))$
 > [!info] Proprietà
 > **associatività**: $(h \circ g) \circ f = h \circ (g \circ f)$
 
+---
+
 > [!warn] Proposizione
 > $f$ biiettiva <-> $\exists g:Y \longrightarrow X: f \circ g = id_Y, g \circ f = id_X$
 > g è chiamata **funzione inversa**
-> 
+
+> [!info] Dimostrazione
+> ![[Pasted image 20241001141839.png]]
+
