@@ -27,9 +27,16 @@ $$P(e\cup F)=P(E)+P(F)-P(E\cap F)$$
 $S$ spazio campionario
 $E, F \subset S$
 ![[Pasted image 20241001172921.png]]
-$x \in E\cup F <-> x \in E \or x \in F$
+$x \in E\cup F <-> x \in E \lor x \in F$
 Quindi l'evento $E\cup F$ significa *si verifica E o si verifica F* (non esclusivamente)
 >[!example] Esempio
 >Ho un dado truccato per cui 1 esce con probabilità $\frac{1}{2}$ e gli altri con probabilità $\frac{1}{10}$
 >
 >Qual è la probabilità che esca un numero dispari?
+>$P(E) dove E = \{1,3,5\}$
+>Per additività finita $P(E)=0,5+0,1+0,1=0,7$
+
+---
+## Spazi di probabilità con esiti equipossibili
+Supponiamo che $|S|< \infty$
+Scrivo $S=\{S_1,S_2,...,S_n\}$ e ho $n$ esiti
