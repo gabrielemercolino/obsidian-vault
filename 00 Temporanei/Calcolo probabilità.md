@@ -40,3 +40,8 @@ Quindi l'evento $E\cup F$ significa *si verifica E o si verifica F* (non esclusi
 ## Spazi di probabilità con esiti equipossibili
 Supponiamo che $|S|< \infty$
 Scrivo $S=\{S_1,S_2,...,S_n\}$ e ho $n$ esiti
+Immaginiamo che i vari esiti abbiano la stessa speranza di realizzarsi
+Come materializziamo questo esperimento con uno spazio di probabilità?
+
+Siccome gli esiti sono equipossibili, richiediamo che $P(\{S_1\})=P(\{S_2\})=...=P(\{S_n\})$
+D'altro canto ho che $1=P(S)$ e $S=\{S_1,S_2,...,S_n\}$ e gli eventi sono *a 2 a 2 incompatibili* allora $\sum_{i=1}^{n}{P(\{\})}$
