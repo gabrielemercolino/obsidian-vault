@@ -27,4 +27,10 @@ Una vista del kernel UNIX:
 ### Processi
 Il compito fondamentale del sistema è la gestione dei processi
 - permettere l'esecuzione alternata
-- asse
+- assegnare le risorse ai processi e proteggere dagli altri processi
+- permettere lo scambio di informazioni
+
+#### Cos'è un processo
+![[Pasted image 20241001153324.png]]
+![[Pasted image 20241001153705.png]]
+Un processo in esecuzione e l'esecuzione stessa
