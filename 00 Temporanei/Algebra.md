@@ -6,7 +6,7 @@ tags:
 links: 
 cssclasses:
 ---
-## Funzione biiettiva
+# Algebra
 > [!error] Def
 > Unfa funzione $f:X\longrightarrow Y$ è **biiettiva** se è allo stesso tempo [[suriettiva]] e  [[iniettiva]]
 
@@ -89,4 +89,4 @@ Consideriamo l'insieme quoziente $\frac{X}{\tilde}$
 >L'applicazione $\phi$ è ben definita *(l'immagine di una classe dipende dalla scelta di un rappresentante)* è biiettiva e permette di calcolare $f$ fattorizzandola con il diagramma seguente 
 >![[Pasted image 20241001150023.png]]
 
-
+---
