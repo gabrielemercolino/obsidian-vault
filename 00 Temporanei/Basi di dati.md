@@ -62,7 +62,9 @@ Simbolo $\text{X}$
 >![[Pasted image 20241002164124.png]]
 >Che però così **non ha senso**
 >
->Facendo una quesry sensata potremmo avere
+>Facendo una query sensata potremmo avere
 >![[Pasted image 20241002164419.png]]
 >![[Pasted image 20241002164427.png]]
 
+---
+## Join naturale
