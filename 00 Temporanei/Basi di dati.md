@@ -17,4 +17,12 @@ Può essere applicata solo ad operandi compatibili, ovvero se hanno lo *stesso n
 > ![[Pasted image 20241002153657.png]]
 > Facendo $\text{Personale}=\text{Docenti} \cup \text{Amministrativi}$
 > ![[Pasted image 20241002153924.png]]
+> 
+> Tuttavia così ci si espone a possibili *tagli*
+> Una progettazione migliore dovrebbe poter prevedere questo e distinguere in modo migliore i due tipi
 
+>[!example] Esempio
+>Poniamo invece questo
+>![[Pasted image 20241002154318.png]]
+>Qui abbiamo l'attributo **Stip** di troppo
+>Dobbiamo prima effettuare una [[proiezione]], quindi $$\phy_$$
