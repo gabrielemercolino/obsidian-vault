@@ -80,4 +80,10 @@ Allora $P(E)=\frac{|E|}{|S|}$ dove $|E|=365$ mentre $|S|=365^2$, quindi $$P(E)=\
 
 Ora stesso problema ma con 3 persone, A, B e C
 $S\{(x_1,x_2,x_3):x_1,x_2,x_3\in \{1,2,...,365\}\}$ e ha esiti equiprobabili
-$E=\{(x_1,x_2,x_3)\in S : \exists i \neq j \text \}$
+$E=\{(x_1,x_2,x_3)\in S : \exists i \neq j \text 1 \leq i,j \leq 3 \and x_i = x_j\}$
+$P(E)=\frac{|E|}{|S|}$ dove però $|E|$ è complicato da calcolare
+Tuttavia $P(E)=1-P(E^c)$
+$E^c=\{(x_1,x_2,x_3) \in S : x_1,x_2,x_3 \text{sono distinti}\}$, quindi $|E|=365*364*363$
+Infine possiamo dire che $$P(E)=1-P(e^c)=1-\frac{365*364*363}{365^3}$$
+Con *n* persone per calcolare $P(E)$ procedo come sopra
+$|S|=365^n$ per il [[pr]]
