@@ -110,3 +110,5 @@ Per il momento lasciamo la domanda **b**
 ![[Pasted image 20241002183455.png]]
 
 ---
+## Esercizi
+![[Pasted image 20241002183729.png]]
