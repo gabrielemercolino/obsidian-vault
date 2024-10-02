@@ -46,3 +46,17 @@ Simbolo $\cap$
 >![[Pasted image 20241002160900.png]]
 > $\text{Studenti}\cap\text{Amministrativi}$
 >![[Pasted image 20241002160910.png]]
+
+---
+## Profotto cartesiano
+Consente di costruire una relazione contenente tutte le n-uple che si ottenfolo concatenando le n-uple del primo operando con i secondo
+Simbolo $\text{X}$
+
+>[!example] Esempio
+>![[Pasted image 20241002163800.png]]
+>Con $\text{Cliente}\text{ X }\text{Ordine}$
+>
+
+>[!note] Nota
+>![[Pasted image 20241002163945.png]]
+
