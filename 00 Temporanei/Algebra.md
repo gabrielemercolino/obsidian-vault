@@ -103,3 +103,7 @@ Per il momento lasciamo la domanda **b**
 ![[Pasted image 20241002175656.png]]
 ![[Pasted image 20241002175707.png]]
 ![[Pasted image 20241002180022.png]]
+
+---
+Tornando a 
+![[Pasted image 20241001150023.png]]
