@@ -94,4 +94,6 @@ Concludendo $$P(E)=1-P(E^c)=1-\frac{365*364*...*(365-n+1)}{365^n}$$
 >Gli esiti sono equiprobabili per simmetria
 >$|S|=\left( \begin{array}{c} 15 \\ 5\end{array} \right)$
 >$E=\{A\subset G : |A|=5\} \land A \text{contiene 3 uomini e 2 donne}$
->$|E|$
+>$|E|=\left( \begin{array}{c} 6 \\ 3\end{array} \right)*\left( \begin{array}{c} 9 \\ 2\end{array} \right)$
+>Allora $$P(E)=\frac{140}{1001}$$
+
