@@ -54,9 +54,15 @@ Simbolo $\text{X}$
 
 >[!example] Esempio
 >![[Pasted image 20241002163800.png]]
->Con $\text{Cliente}\text{ X }\text{Ordine}$
 >
-
->[!note] Nota
->![[Pasted image 20241002163945.png]]
+>>[!note] Nota
+>>![[Pasted image 20241002163945.png]]
+>
+>Con $\text{Cliente}\text{ X }\text{OrdineR}$
+>![[Pasted image 20241002164124.png]]
+>Che però così **non ha senso**
+>
+>Facendo una quesry sensata potremmo avere
+>![[Pasted image 20241002164419.png]]
+>![[Pasted image 20241002164427.png]]
 
