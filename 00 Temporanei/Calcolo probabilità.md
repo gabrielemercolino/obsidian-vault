@@ -73,4 +73,11 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 Consideriamo due persone, A e B
 Qual è la probabilità che abbiano lo stesso compleanno?
 
-Per semplicità tutti gli anni hanno 365 giorni e che ci sia una simmetria tra i vari giorni dell'anno per quanto riguarda le persone nate in un dato giorno
+Per semplicità tutti gli anni hanno 365 giorni e che ci sia una simmetria tra i vari giorni dell'anno per quanto riguarda il numero delle persone nate in un dato giorno
+$S\{(x_1,x_2):x_1,x_2\in \{1,2,...,365\}\}$ dove $x_1=\text{compleanno di A}$ e $x_2=\text{compleanno di B}$
+$S$ ha quindi esiti equiprobabili
+Allora $P(E)=\frac{|E|}{|S|}$ dove $|E|=365$ mentre $|S|=365^2$, quindi $$P(E)=\frac{365}{365^2}=\frac{1}{365}$$
+
+Ora stesso problema ma con 3 persone, A, B e C
+$S\{(x_1,x_2,x_3):x_1,x_2,x_3\in \{1,2,...,365\}\}$ e ha esiti equiprobabili
+$E=\{(x_1,x_2,x_3)\in S : \exists i \neq j \text \}$
