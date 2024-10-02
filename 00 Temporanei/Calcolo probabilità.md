@@ -89,4 +89,9 @@ Con *n* persone per calcolare $P(E)$ procedo come sopra
 $|S|=365^n$ per il [[Principio fondamentale della combinatoria|PFdC]], mentre $E^c=\{(x_1,...,x_n)\in S: x_1,...,x_n \text{diversi}\}$ e quindi $|E|=365*364*(365-n+1)$
 Concludendo $$P(E)=1-P(E^c)=1-\frac{365*364*...*(365-n+1)}{365^n}$$
 >[!example] Esempio
->Devo creare una commissione da 5 persone da un gr
+>Devo creare una commissione da 5 persone da un gruppo  di 6 uomini e 9 donne formato da 3 uomini e 2 donne
+>$S=\{A\subset G : |A|=5\}$ dove $G=\text{gruppo di 15 persone}$
+>Gli esiti sono equiprobabili per simmetria
+>$|S|=\left( \begin{array}{c} 15 \\ 5\end{array} \right)$
+>$E=\{A\subset G : |A|=5\} \land A \text{contiene 3 uomini e 2 donne}$
+>$|E|$
