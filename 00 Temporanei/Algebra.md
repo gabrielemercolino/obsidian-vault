@@ -112,3 +112,4 @@ Per il momento lasciamo la domanda **b**
 ---
 ## Esercizi
 ![[Pasted image 20241002183729.png]]
+![[Pasted image 20241002184217.png]]
