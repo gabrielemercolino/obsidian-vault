@@ -106,4 +106,3 @@ Per il momento lasciamo la domanda **b**
 
 ---
 ![[Pasted image 20241002180650.png]]
-![[Pasted image 20241002181333.png]]
