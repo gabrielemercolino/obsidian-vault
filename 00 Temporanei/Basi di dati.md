@@ -68,3 +68,5 @@ Simbolo $\text{X}$
 
 ---
 ## Join naturale
+![[Pasted image 20241002165335.png]]
+![[Pasted image 20241002165516.png]]
