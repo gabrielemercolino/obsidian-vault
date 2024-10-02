@@ -29,11 +29,21 @@ Può essere applicata solo ad operandi compatibili, ovvero se hanno lo *stesso n
 
 ---
 ## Differenza
-Come l'[[#Unione|unione]] si applica su operandi compatibii+
+Come l'[[#Unione|unione]] si applica su operandi compatibii
 Simbolo $-$
 Ovviamante **non è commutativa**
 ![[Pasted image 20241002155752.png]]
 >[!example] Esempio
 >![[Pasted image 20241002155832.png]]
 >![[Pasted image 20241002160025.png]]
+
+---
+## Intersezione
+Come prima è applicabile con operandi compatibili
+Simbolo $\cap$
+
+>[!example] Esempio
+>![[Pasted image 20241002160900.png]]
+> $\text{Studenti}\cap\text{Amministrativi}$
+>![[Pasted image 20241002160910.png]]
 
