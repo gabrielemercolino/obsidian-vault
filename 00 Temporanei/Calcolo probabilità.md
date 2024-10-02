@@ -67,3 +67,10 @@ Provato che $1=n*z$, cioè $z=\frac{1}{n}$, ovvero $P(\{S_i\}) \forall i = 1...n
 > Ora $|S|=\left( \begin{array}{c} 11 \\ 3\end{array}\right)$
 > Per il [[Principio fondamentale della combinatoria|PFdC]] $$|E|=\text{modi pallina bianca} * \text{modi scegliere 2 palline nere no ordine} = 6 * \left( \begin{array}{c} 5 \\ 2\end{array}\right)$$
 > Quindi $$\frac{|E|}{|S|}=\frac{6 * \left( \begin{array}{c} 5 \\ 2\end{array}\right)}{\left( \begin{array}{c} 11 \\ 3\end{array}\right)} = \frac{12}{33}$$
+
+---
+## Problema dei compleanni
+Consideriamo due persone, A e B
+Qual è la probabilità che abbiano lo stesso compleanno?
+
+Per semplicità tutti gli anni hanno 365 giorni e che ci sia una simmetria tra i vari giorni dell'anno per quanto riguarda le persone nate in un dato giorno
