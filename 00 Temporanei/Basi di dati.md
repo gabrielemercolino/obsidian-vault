@@ -25,4 +25,4 @@ Può essere applicata solo ad operandi compatibili, ovvero se hanno lo *stesso n
 >Poniamo invece questo
 >![[Pasted image 20241002154318.png]]
 >Qui abbiamo l'attributo **Stip** di troppo
->Dobbiamo prima effettuare una [[proiezione]], quindi $$\phy_$$
+>Dobbiamo prima effettuare una [[proiezione]], quindi $$\text{Personale}=\pi_{\text{Nome,CodDoc,Dipartimento}}(\text{Docenti}) \cup \pi_{\text{Nome,CodDoc,Dipartimento}}(\text{Amministrativi})$$
