@@ -86,4 +86,5 @@ Tuttavia $P(E)=1-P(E^c)$
 $E^c=\{(x_1,x_2,x_3) \in S : x_1,x_2,x_3 \text{sono distinti}\}$, quindi $|E|=365*364*363$
 Infine possiamo dire che $$P(E)=1-P(e^c)=1-\frac{365*364*363}{365^3}$$
 Con *n* persone per calcolare $P(E)$ procedo come sopra
-$|S|=365^n$ per il [[pr]]
+$|S|=365^n$ per il [[Principio fondamentale della combinatoria|PFdC]], mentre $E^c=\{(x_1,...,x_n)\in S: x_1,...,x_n \text{diversi}\}$ e quindi $|E|=365*364*(365-n+1)$
+Concludendo $$P(E)=1-P(E^c)=1-\frac{365*364*...*(365-n+1)}{365^n}$$
