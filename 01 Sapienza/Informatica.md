@@ -16,4 +16,4 @@ links:
 - [[Calcolo delle probabilità]]
 - [[Algebra]]
 - [[Sistemi operativi]]
-- [[Basi di dati]]
+- [[01 Sapienza/Basi di dati]]
