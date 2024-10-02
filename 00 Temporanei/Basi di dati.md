@@ -13,3 +13,8 @@ Simbolo $\cup$
 
 Può essere applicata solo ad operandi compatibili, ovvero se hanno lo *stesso numero* di attributi e quelli corrispondenti devono essere definiti sullo *stesso dominio*
 
+> [!example] Esempio
+> ![[Pasted image 20241002153657.png]]
+> Facendo $\text{Personale}=\text{Docenti} \cup \text{Amministrativi}$
+> ![[Pasted image 20241002153924.png]]
+
