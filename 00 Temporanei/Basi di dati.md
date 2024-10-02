@@ -26,3 +26,13 @@ Può essere applicata solo ad operandi compatibili, ovvero se hanno lo *stesso n
 >![[Pasted image 20241002154318.png]]
 >Qui abbiamo l'attributo **Stip** di troppo
 >Dobbiamo prima effettuare una [[proiezione]], quindi $$\text{Personale}=\pi_{\text{Nome,CodDoc,Dipartimento}}(\text{Docenti}) \cup \pi_{\text{Nome,CodAmm,Dipartimento}}(\text{Amministrativi})$$
+
+---
+## Differenza
+Come l'[[#Unione|unione]] si applica su operandi compatibii+
+Simbolo $-$
+Ovviamante **non è commutativa**
+![[Pasted image 20241002155752.png]]
+>[!example] Esempio
+>![[Pasted image 20241002155832.png]]
+>![[Pasted image 20241002160025.png]]
