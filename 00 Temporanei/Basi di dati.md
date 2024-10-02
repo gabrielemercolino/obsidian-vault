@@ -36,3 +36,4 @@ Ovviamante **non è commutativa**
 >[!example] Esempio
 >![[Pasted image 20241002155832.png]]
 >![[Pasted image 20241002160025.png]]
+
