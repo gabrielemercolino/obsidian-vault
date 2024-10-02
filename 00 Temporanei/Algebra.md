@@ -90,3 +90,4 @@ Consideriamo l'insieme quoziente $\frac{X}{\tilde}$
 >![[Pasted image 20241001150023.png]]
 
 ---
+![[Pasted image 20241002171807.png]]
