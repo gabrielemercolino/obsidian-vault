@@ -92,4 +92,6 @@ Consideriamo l'insieme quoziente $\frac{X}{\tilde}$
 ---
 ![[Pasted image 20241002171807.png]]
 ![[Pasted image 20241002172535.png]]
-![[Pasted image 20241002173258.png]]
+![[Pasted image 20241002173556.png]]
+Per il momento lasciamo la domanda **b**
+![[Pasted image 20241002173836.png]]
