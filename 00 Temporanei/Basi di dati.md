@@ -46,4 +46,3 @@ Simbolo $\cap$
 >![[Pasted image 20241002160900.png]]
 > $\text{Studenti}\cap\text{Amministrativi}$
 >![[Pasted image 20241002160910.png]]
-
