@@ -7,26 +7,6 @@ links:
 cssclasses:
 ---
 # Algebra
-
-> [!warn] Proposizione
-> $f$ biiettiva <-> $\exists g:Y \longrightarrow X: f \circ g = id_Y, g \circ f = id_X$
-> g è chiamata **funzione inversa**
-
-> [!info] Dimostrazione
-> ![[Pasted image 20241001141839.png]]
-
-Supponiamo adesso che sia dato il diagramma ![[Pasted image 20241001142358.png]]
-con 
-1) $f\circ g = id_Y$ 
-2) $g \circ f = id_X$
-Mostriamo che $g$ è **suriettiva**. Sia $x \in X$ e poniamo $y = f(x)$. Allora $g(y)=g(f(x))=(g\circ f)(x) = x$ per via di **2** $\longrightarrow g^{-1}(x)\neq \emptyset$ 
-Mostriamo che $g$ è **iniettiva**. Siano $y, y^i \in Y$ tali che $g(y)=g(y^i)=x$. Allora applicando $f$ a tutti ottengo $f(g(y))=f(g(y^i))=f(x) \longrightarrow y=(f\circ g)(y)=(f\circ g)(y^i)$  
-
----
-Se $f:X\rightarrow Y$ è biiettiva si denota la sua **inversa** con $f^{-1}:Y\rightarrow X$
-Notare che $f^{-1}$ è ugualmente *biettiva*
-
----
 Se $f$ e $g$ sono biiettive
 ![[Pasted image 20241001143537.png]]
 $(g \circ f)^{-1} = f^{-1}\circ g^{-1}$
