@@ -1,6 +1,7 @@
 ---
 tags:
   - unfinished
+  - algebra
 links: "[[Funzioni]]"
 cssclasses: 
 aliases:
