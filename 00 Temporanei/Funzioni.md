@@ -14,4 +14,5 @@ cssclasses:
 Si definisce **funzione composta** come la 
 ![[Pasted image 20241001140943.png]]
 funzione definita da $(g \circ f)(x)=g(f(x))$
-### Proprietà
+> >[!info] Proprietà
+> >**associatività**: $(h \circ g) \circ f = h \circ (g \circ f)$

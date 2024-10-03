@@ -7,18 +7,6 @@ links:
 cssclasses:
 ---
 # Algebra
-### Operazioni sulle funzioni
-#### Composizione
->[!error] Def
-![[Pasted image 20241001140846.png]]
-Si definisce **funzione composta** come la 
-![[Pasted image 20241001140943.png]]
-funzione definita da $(g \circ f)(x)=g(f(x))$
-
-> [!info] Proprietà
-> **associatività**: $(h \circ g) \circ f = h \circ (g \circ f)$
-
----
 
 > [!warn] Proposizione
 > $f$ biiettiva <-> $\exists g:Y \longrightarrow X: f \circ g = id_Y, g \circ f = id_X$
