@@ -1,7 +1,7 @@
 ---
 tags:
-  - unfinished
   - algebra
+  - finished
 links: "[[Funzioni]]"
 cssclasses: 
 aliases:

@@ -1,7 +1,7 @@
 ---
 tags:
-  - unfinished
   - basi-dati
+  - finished
 links: 
 cssclasses:
 ---
@@ -46,4 +46,8 @@ Si denota con il simbolo $\cup$
 > Rossi  |       C2      | Lettere  |
 > Bianchi  |       C3      | Matematica  |
 > Verdi  |       C4     | Lingue  |
+> 
+> > [!warn] Attenzione
+> > A seconda dei dati si potrebbe ricadere nel caso in cui qualcosa venga rimosso perchè considerato duplicato seconda l'insiemistica
+
 
