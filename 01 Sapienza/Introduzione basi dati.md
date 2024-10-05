@@ -5,7 +5,7 @@ tags:
 links: "[[Sistema informativo]]"
 cssclasses:
 ---
-## Introduzione basi dati
+# Introduzione basi dati
 
 ### In passato
 - ogni applicazione aveva i propri file privati

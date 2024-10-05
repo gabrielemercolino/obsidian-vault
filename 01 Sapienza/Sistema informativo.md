@@ -5,7 +5,7 @@ tags:
 links: "[[DBMS]]"
 cssclasses:
 ---
-## Sistema informativo
+# Sistema informativo
 > [!error] Cos'è
 > Un sistema informativo è un componente di un'organizzazione che si occupa di gestire le informazioni di interesse
 
