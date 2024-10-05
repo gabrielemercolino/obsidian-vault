@@ -1,7 +1,7 @@
 ---
 tags:
-  - unfinished
   - calcolo-probabilità
+  - finished
 links: 
 cssclasses:
 ---
