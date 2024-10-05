@@ -13,4 +13,4 @@ Esso è anche un **linguaggio procedurale** dove appaiono operatori algebrici e 
 ## Operazioni
 - [[Proiezione]]
 - [[Selezione]]
-- 
+- [[Unione]]
