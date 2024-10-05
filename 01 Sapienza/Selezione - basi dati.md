@@ -1,7 +1,7 @@
 ---
 tags:
-  - unfinished
   - basi-dati
+  - finished
 links: 
 cssclasses:
 ---
