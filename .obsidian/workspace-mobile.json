@@ -11,12 +11,8 @@
             "id": "d5f6eb3cb9b1ca75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Temporanei/Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 Temporanei/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00 Temporanei/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "00 Temporanei/Test.md"
-          }
+          "state": {}
         }
       },
       {
