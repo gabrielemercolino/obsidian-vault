@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e037d1b9fd8fd09a",
+        "id": "cf0c284bf94cdcf9",
         "type": "tabs",
         "children": [
           {
-            "id": "5f8099bbdf3c4fdd",
+            "id": "d5f6eb3cb9b1ca75",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace-mobile.json",
-                "staged": false
+                "file": "00 Temporanei/Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 Temporanei/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "00 Temporanei/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "00 Temporanei/Test.md"
+          }
         }
       },
       {
@@ -149,8 +154,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f8099bbdf3c4fdd",
+  "active": "d5f6eb3cb9b1ca75",
   "lastOpenFiles": [
+    "00 Temporanei/Test.md",
     "00 Temporanei/Algebra.md"
   ]
 }
