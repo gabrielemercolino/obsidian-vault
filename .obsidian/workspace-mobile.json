@@ -11,8 +11,12 @@
             "id": "d5f6eb3cb9b1ca75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Sapienza/Calcolo probabilità/Principio fondamentale della combinatoria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "01 Sapienza/Calcolo probabilità/Principio fondamentale della combinatoria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 Sapienza/Calcolo probabilità/Principio fondamentale della combinatoria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "01 Sapienza/Calcolo probabilità/Principio fondamentale della combinatoria.md"
+          }
         }
       },
       {
@@ -148,6 +156,17 @@
   },
   "active": "d5f6eb3cb9b1ca75",
   "lastOpenFiles": [
+    "01 Sapienza/Basi dati/Basi di dati.md",
+    "01 Sapienza/Basi dati/Unione.md",
+    "01 Sapienza/Basi dati/Selezione.md",
+    "01 Sapienza/Basi dati/Proiezione.md",
+    "01 Sapienza/Informatica.md",
+    "01 Sapienza/Università La Sapienza.md",
+    "01 Sapienza/Calcolo probabilità/Spazio campionario.md",
+    "01 Sapienza/Sistemi operativi",
+    "01 Sapienza/Algebra",
+    "01 Sapienza/Calcolo probabilità",
+    "01 Sapienza/Basi dati",
     "00 Temporanei/Test.md",
     "00 Temporanei/Test.md",
     "00 Temporanei/Algebra.md"

@@ -11,7 +11,7 @@ L'insieme di operatori, *unari* o *binari*, forniscono come risultato una **nuov
 Esso è anche un **linguaggio procedurale** dove appaiono operatori algebrici e istanze di relazioni
 
 ## Operazioni
-- [[Proiezione - basi dati |Proiezione]]
-- [[Selezione - basi dati|Selezione]]
-- [[Unione - base dati |Unione]]
+- [[Proiezione|Proiezione]]
+- [[Selezione|Selezione]]
+- [[Unione|Unione]]
 - 

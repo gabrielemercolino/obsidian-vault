@@ -3,7 +3,8 @@ tags:
   - unfinished
   - calcolo-probabilità
 links: 
-cssclasses:
+cssclasses: 
+aliases:
 ---
 ## Principio fondamentale della combinatoria
 
