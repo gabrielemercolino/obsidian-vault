@@ -5,6 +5,7 @@ tags:
 links: 
 cssclasses: 
 aliases:
+  - PFdC
 ---
 ## Principio fondamentale della combinatoria
 
