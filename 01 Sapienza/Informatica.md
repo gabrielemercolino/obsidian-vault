@@ -14,6 +14,6 @@ links:
 
 #### Secondo anno
 - [[Calcolo delle probabilità]]
-- [[01 Sapienza/Algebra/Algebra|Algebra]]
+- [[Algebra]]
 - [[Sistemi operativi]]
 - [[Basi di dati]]

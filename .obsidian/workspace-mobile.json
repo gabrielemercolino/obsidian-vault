@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e292dba369e91e50",
+        "id": "cf0c284bf94cdcf9",
         "type": "tabs",
         "children": [
           {
-            "id": "a75d9b706bfa3ef8",
+            "id": "d5f6eb3cb9b1ca75",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "01 Sapienza/Calcolo delle probabilità.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aebc9ce11df05117",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "01 Sapienza/Calcolo delle probabilità.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "01 Sapienza/Calcolo delle probabilità.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "01 Sapienza/Calcolo delle probabilità.md"
+          }
         }
       },
       {
@@ -129,9 +146,17 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "5e34513493bf6da4",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,27 +171,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a75d9b706bfa3ef8",
+  "active": "aebc9ce11df05117",
   "lastOpenFiles": [
-    "01 Sapienza/Basi dati/Basi di dati.md",
+    "01 Sapienza/Calcolo delle probabilità.md",
+    "01 Sapienza/Basi di dati.md",
     "01 Sapienza/Informatica.md",
-    "01 Sapienza/Algebra/Algebra.md",
-    "01 Sapienza/Calcolo probabilità/Calcolo delle probabilità.md",
-    "00 Temporanei/Algebra.md",
     "01 Sapienza/Università La Sapienza.md",
-    "01 Sapienza/Calcolo probabilità/Coefficiente binomiale.md",
-    "01 Sapienza/Calcolo probabilità/Scelta senza ripetizioni.md",
-    "01 Sapienza/Calcolo probabilità/Permutazioni.md",
-    "01 Sapienza/Calcolo probabilità/Principio fondamentale della combinatoria.md",
-    "01 Sapienza/Basi dati/Unione.md",
-    "01 Sapienza/Basi dati/Selezione.md",
-    "01 Sapienza/Basi dati/Proiezione.md",
-    "01 Sapienza/Calcolo probabilità/Spazio campionario.md",
-    "01 Sapienza/Sistemi operativi",
-    "01 Sapienza/Algebra",
-    "01 Sapienza/Calcolo probabilità",
-    "01 Sapienza/Basi dati",
+    "README.md",
     "00 Temporanei/Test.md",
-    "00 Temporanei/Test.md"
+    "00 Temporanei/Algebra.md"
   ]
 }

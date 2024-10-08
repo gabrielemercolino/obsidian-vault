@@ -1,6 +1,0 @@
----
-tags:
-  - unfinished
-links: 
-cssclasses:
----

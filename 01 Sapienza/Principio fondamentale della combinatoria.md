@@ -3,9 +3,7 @@ tags:
   - unfinished
   - calcolo-probabilità
 links: 
-cssclasses: 
-aliases:
-  - PFdC
+cssclasses:
 ---
 ## Principio fondamentale della combinatoria
 
