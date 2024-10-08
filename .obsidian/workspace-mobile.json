@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf0c284bf94cdcf9",
+        "id": "e292dba369e91e50",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f6eb3cb9b1ca75",
+            "id": "a75d9b706bfa3ef8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Sapienza/Informatica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee9ddb1d2dc55723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Sapienza/Basi dati/Basi di dati.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 Sapienza/Informatica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Sapienza/Informatica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "01 Sapienza/Informatica.md"
-          }
+          "state": {}
         }
       },
       {
@@ -166,12 +146,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5f6eb3cb9b1ca75",
+  "active": "a75d9b706bfa3ef8",
   "lastOpenFiles": [
-    "01 Sapienza/Algebra/Algebra.md",
-    "01 Sapienza/Informatica.md",
-    "01 Sapienza/Calcolo probabilità/Calcolo delle probabilità.md",
     "01 Sapienza/Basi dati/Basi di dati.md",
+    "01 Sapienza/Informatica.md",
+    "01 Sapienza/Algebra/Algebra.md",
+    "01 Sapienza/Calcolo probabilità/Calcolo delle probabilità.md",
     "00 Temporanei/Algebra.md",
     "01 Sapienza/Università La Sapienza.md",
     "01 Sapienza/Calcolo probabilità/Coefficiente binomiale.md",
