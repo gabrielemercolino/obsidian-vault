@@ -23,8 +23,12 @@
             "id": "aebc9ce11df05117",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Sapienza/Basi di dati.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 Sapienza/Calcolo delle probabilità.md",
+            "file": "01 Sapienza/Basi di dati.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Sapienza/Calcolo delle probabilità.md",
+            "file": "01 Sapienza/Basi di dati.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01 Sapienza/Calcolo delle probabilità.md"
+            "file": "01 Sapienza/Basi di dati.md"
           }
         }
       },
@@ -156,7 +160,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
