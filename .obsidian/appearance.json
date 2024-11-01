@@ -2,5 +2,6 @@
   "showViewHeader": true,
   "cssTheme": "Underwater",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
