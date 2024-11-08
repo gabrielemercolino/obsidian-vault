@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "README.md",
+      "timestamp": 1731060931968
+    },
+    {
       "filepath": "archive/Sistemi operativi.md",
       "timestamp": 1731060652920
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "archive/Spazio campionario.md",
       "timestamp": 1731060623059
-    },
-    {
-      "filepath": "archive/Sistema informativo.md",
-      "timestamp": 1731060620506
     }
   ],
   "bookmarkedFileStore": [],
