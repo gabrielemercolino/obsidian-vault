@@ -14,6 +14,6 @@ links:
 
 #### Secondo anno
 - [[Calcolo delle probabilità]]
-- [[00 Temporanei/Algebra]]
+- [[_temp/Algebra]]
 - [[Sistemi operativi]]
 - [[Basi di dati]]

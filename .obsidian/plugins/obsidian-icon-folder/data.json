@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "✍",
+      "LiBookTemplate",
       "LiFileStack",
       "📚"
     ],
@@ -31,5 +34,7 @@
     "debugMode": false
   },
   "university": "📚",
-  "files": "LiFileStack"
+  "files": "LiFileStack",
+  "templates": "LiLayoutTemplate",
+  "_temp": "✍"
 }
