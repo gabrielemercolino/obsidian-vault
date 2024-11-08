@@ -1,5 +1,5 @@
 {
-  "logoType": "default",
+  "logoType": "none",
   "logo": {
     "lucideIcon": "",
     "imagePath": "",
@@ -14,7 +14,7 @@
   "fontWeight": 600,
   "maxResults": 5,
   "showbookmarkedFiles": true,
-  "showRecentFiles": false,
+  "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -24,23 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "university/Spazio campionario.md",
+      "timestamp": 1731060443309
+    },
+    {
+      "filepath": "university/Spazio di probabilità.md",
+      "timestamp": 1731060290289
+    },
+    {
       "filepath": "README.md",
-      "timestamp": 1731060158474
-    },
-    {
-      "filepath": "university/Sapienza.md",
-      "timestamp": 1731060145110
-    },
-    {
-      "filepath": "university/DB.md",
-      "timestamp": 1731060060301
+      "timestamp": 1731060277011
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
-  "newTabOnStart": false,
-  "closePreviousSessionTabs": false,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
   "omnisearch": false,
-  "showOmnisearchExcerpt": true
+  "showOmnisearchExcerpt": true,
+  "font": "meslo"
 }

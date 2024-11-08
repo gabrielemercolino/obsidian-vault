@@ -1,10 +1,4 @@
----
-tags:
-  - calcolo-probabilità
-  - finished
-links: 
-cssclasses:
----
+#calcolo-probabilità 
 ## Spazio campionario
 
 > [!error] Def

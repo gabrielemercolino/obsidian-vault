@@ -1,4 +1,4 @@
-#temp #prof #basi-dati 
+#prof #basi-dati 
 
 # Prof.ssa Maria De Marsico
 - email: demarsico@di.uniroma1.it
