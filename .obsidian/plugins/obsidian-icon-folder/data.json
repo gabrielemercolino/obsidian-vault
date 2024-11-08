@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
       "🌍",
       "LiLayoutTemplate",
       "✍",
-      "LiBookTemplate",
-      "LiFileStack"
+      "LiBookTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "files": "LiFileStack",
   "templates": "LiLayoutTemplate",
   "_temp": "✍",
-  "README.md": "🌍"
+  "README.md": "🌍",
+  "archive": "LiDatabase"
 }
