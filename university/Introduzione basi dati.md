@@ -1,10 +1,5 @@
----
-tags:
-  - unfinished
-  - basi-dati
-links: "[[Sistema informativo]]"
-cssclasses:
----
+#basi-dati 
+
 # Introduzione basi dati
 
 ### In passato
