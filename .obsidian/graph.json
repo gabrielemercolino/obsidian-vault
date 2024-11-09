@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 16449791
-      }
-    },
     {
       "query": "tag:#calcolo-probabilità  ",
       "color": {
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0776130908447725,
+  "scale": 0.7686349759003049,
   "close": true
 }

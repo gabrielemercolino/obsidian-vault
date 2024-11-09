@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "archive/Calcolo delle probabilità.md",
+      "timestamp": 1731142854525
+    },
+    {
+      "filepath": "university/Prof.ssa Maria De Marsico.md",
+      "timestamp": 1731142719486
+    },
+    {
       "filepath": "README.md",
       "timestamp": 1731060931968
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "archive/Unione - base dati.md",
       "timestamp": 1731060629025
-    },
-    {
-      "filepath": "archive/Spazio di probabilità.md",
-      "timestamp": 1731060626225
-    },
-    {
-      "filepath": "archive/Spazio campionario.md",
-      "timestamp": 1731060623059
     }
   ],
   "bookmarkedFileStore": [],
